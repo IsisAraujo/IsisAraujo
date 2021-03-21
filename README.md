@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @IsisAraujo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isis Araujo</h1>
+<h3 align="center">A DataScience focused on helping people start analyzing data.</h3>
 
-<!---
-IsisAraujo/IsisAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 💬 Ask me about **DataScience, Python, R**
+
+- 📫 How to reach me **isis.datascience@gmail.com**
+
+- ⚡ Fun fact **Oneye 😜**
+
+
