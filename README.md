@@ -2,7 +2,7 @@
 <h3 align="center">A DataScience focused on helping people start analyzing data.</h3>
 
 
-- 💬 Ask me about **DataScience, Python, R**
+- 💬 Ask me about **DataScience, Python**
 
 - 📫 How to reach me **isis.datascience@gmail.com**
 
