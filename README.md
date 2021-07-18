@@ -10,15 +10,15 @@
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-Analytical Tools:
+🛠 Analytical Tools:
 
-Data Collect and Storage: SQL, MySQL.
+- Data Collect and Storage: SQL, MySQL.
 
-Data Processing and Analysis: Python.
+- Data Processing and Analysis: Python.
 
-Development: Git, Linux.
+- Development: Git, Linux.
 
-Machine Learning Modeling: Classification, Regression, Clustering, Time Series, Reinforcement Learning.
+- Machine Learning Modeling: Classification, Regression, Clustering, Time Series, Reinforcement Learning.
 
-Machine Learning Deployment: Heroku
+- Machine Learning Deployment: Heroku
 
