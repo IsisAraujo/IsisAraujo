@@ -1,5 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Isis Araujo</h1>
 <h3 align="center">Analista de Dados</h3>
+</p>
+</p>
+
+
 
 - 🔭 **Atualmente estou trabalhando com Análise e Visualização de dados**
 
@@ -7,7 +11,7 @@
 
 - 💬 Me pergunte sobre **Python, SQL, Google Data Studio, Power BI, Excel e Qgis**
 
-- 📫 **isis.datascience@gmail.com**
+- 📫 **Voçê me acha através do e-mail isis.datascience@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
