@@ -1,24 +1,38 @@
-<h1 align="center">Olá 👋, meu nome é Isis Araujo</h1>
-<h3 align="center">Analista de Dados</h3>
-</p>
-</p>
+# Olá, mundo! 👋🌍 Eu sou Isis Araujo 🚀
 
+### 🐍 Especialista em Python para Negócios | 📊 Analista de Dados | 💡 Especialista em Machine Learning
 
+---
 
-- 🔭 **Atualmente estou trabalhando com Análise e Visualização de dados**
+🌟 Sobre Mim:
 
-- 🌱 **Aprofundando os conhecimentos em Machine Learning**
+Explorando a sinergia entre dados e decisões estratégicas, sou fascinada por desvendar os segredos escondidos nos números. Com uma forte base em Python e uma abordagem focada em resultados, estou sempre pronta para novos desafios na paisagem digital. 📈
 
-- 💬 Me pergunte sobre **Python, SQL, Google Data Studio, Power BI, Excel e Qgis**
+- 🔭 Focada em Análise e Visualização de Dados, transformando dados brutos em narrativas impactantes.
+- 🌱 Dominando o campo de Machine Learning e ETL, estou sempre em busca de novos horizontes para enriquecer minhas análises.
+- 🌍 Apaixonada por Geoprocessamento e especialista em Qgis, explorando a dimensão espacial dos dados.
+- 💬 Pergunte-me sobre Python, SQL, Google Data Studio, Power BI, Excel, Qgis e muito mais!
 
-- 📫 **Voçê me acha através do e-mail isis.datascience@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isisaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isisaraujo" height="30" width="40" /></a>
-<a href="https://discord.gg/218080304366092288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="218080304366092288" height="30" width="40" /></a>
-</p>
+### 📬 Contato:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Me mande um e-mail 📧: [isis.araujo@outlook.com.br](mailto:isis.araujo@outlook.com.br)
+- Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/isisaraujo) 🌐
 
+---
+
+### 🛠️ Ferramentas e Tecnologias:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Qgis](https://img.shields.io/badge/-Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=for-the-badge&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+...e muitos mais!
+
+---
+
+### 🌟 Juntos, podemos revelar o verdadeiro potencial dos dados! 🚀📊
