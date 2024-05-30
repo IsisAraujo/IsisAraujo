@@ -1,3 +1,6 @@
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/IsisAraujo/IsisAraujo/blob/6530525e5c5c61ec0f26de02a89ca9d11a0bdcb3/banner_github%20(1).png" />
+&nbsp;&nbsp;&nbsp;
+
 # Olá, mundo! 👋🌍 Eu sou Isis Araujo 🚀
 
 ### 🐍 Especialista em Python para Negócios | 📊 Analista de Dados | 💡 Especialista em Machine Learning
