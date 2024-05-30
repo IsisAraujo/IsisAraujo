@@ -1,19 +1,25 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/IsisAraujo/IsisAraujo/blob/6530525e5c5c61ec0f26de02a89ca9d11a0bdcb3/banner_github%20(1).png" />
-&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img width="80%" src="https://github.com/IsisAraujo/IsisAraujo/blob/6530525e5c5c61ec0f26de02a89ca9d11a0bdcb3/banner_github%20(1).png" />
+</p>
 
-<p align="center">  I ❤️ solve great challenges using tech. <br><br> 🔍 As a Data Analyst and Python Specialist, I'm dedicated to finding effective solutions to proposed challenges. Balancing technical and managerial skills, I've gained experience leading teams, coordinating projects, and continuously improving data processes. My integrative approach combines the power of data projects with agile development principles.<br><br>
-✨ I'm always open to new opportunities and exciting challenges. Let's connect and collaborate!</p>&nbsp;
+<p align="center">
+  <b>I ❤️ solve great challenges using tech.</b>
+  <br>
+  <br>
+  As a Data Analyst and Python Specialist, I'm dedicated to finding effective solutions to proposed challenges. Balancing technical and managerial skills, I've gained experience leading teams, coordinating projects, and continuously improving data processes. My integrative approach combines the power of data projects with agile development principles.
+  <br>
+  <br>
+  <b>✨ I'm always open to new opportunities and exciting challenges. Let's connect and collaborate!</b>
+</p>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-isis-projects-9b21267b.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<div align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=isisaraujo&theme=radical&mode=weekly" />
+  <img width="36%" src="https://github-readme-stats-isis-projects-9b21267b.vercel.app/api/top-langs/?username=isisaraujo&show_icons=true&theme=radical&layout=compact" />
+</div>
 
+---
 
-### 🐍 Python Specialist | 📊 Data Analyst | 💡Machine Learning |🌎 GIS Specialist
+### 🐍 Python Specialist | 📊 Data Analyst | 💡 Machine Learning | 🌎 GIS Specialist
 
 ---
 
@@ -28,8 +34,6 @@
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
 #### Secondary Stack:
 
@@ -56,16 +60,19 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-&nbsp;
-&nbsp;
+---
 
 ## Contacts:
 
-<div> 
-<a href="mailto:isis.araujo@outlook.com.br"> <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isisaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+<p align="center">
+  <a href="mailto:isis.araujo@outlook.com.br">
+    <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/isisaraujo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+  </a>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+</p>
