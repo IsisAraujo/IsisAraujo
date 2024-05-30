@@ -13,7 +13,7 @@
  &nbsp;
 
 
-### 🐍 Python Specialist | 📊 Data Analyst | 💡 Machine Learning | 🌎 GIS (Geographic Information Systems) Specialist
+### 🐍 Python Specialist | 📊 Data Analyst | 💡Machine Learning |🌎 GIS Specialist
 
 ---
 
