@@ -19,7 +19,7 @@
 
 ---
 
-### 🐍 Python Specialist | 📊 Data Analyst | 💡 Machine Learning | 🌎 GIS Specialist
+### 🔍 Expert in Web Scraping, 🌍 GIS, and 📊 Data Analysis
 
 ---
 
