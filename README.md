@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" src="https://github.com/IsisAraujo/IsisAraujo/blob/6530525e5c5c61ec0f26de02a89ca9d11a0bdcb3/banner_github%20(1).png" />
+  <img width="100%" src="https://github.com/IsisAraujo/IsisAraujo/blob/main/banner_github_qa.png" />
 </p>
 
 <p align="center">
