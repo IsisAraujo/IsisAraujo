@@ -1,15 +1,15 @@
 <p align="center">
-  <img width="100%" src="https://github.com/IsisAraujo/IsisAraujo/blob/main/banner_github_qa.png" />
+  <img width="100%" src="https://github.com/IsisAraujo/IsisAraujo/blob/main/banner_github_2.0.png" />
 </p>
 
 <p align="center">
-  <b>I ❤️ solve great challenges using tech.</b>
+  <b>Eu ❤️ resolvo grandes desafios usando tecnologia.</b>
   <br>
   <br>
-  As a Data Analyst and Python Specialist, I'm dedicated to finding effective solutions to proposed challenges. Balancing technical and managerial skills, I've gained experience leading teams, coordinating projects, and continuously improving data processes. My integrative approach combines the power of data projects with agile development principles.
+  Focada em qualidade de software, sou Analista de QA com mais de 6 anos de experiência em Python, análise de dados e geoprocessamento. Minha jornada é guiada pelos princípios do desenvolvimento ágil, voltada para testes automatizados e excelência em cada linha de código. Sempre em busca de novos desafios e tecnologias, acredito na constante evolução e aprendizado.
   <br>
   <br>
-  <b>✨ I'm always open to new opportunities and exciting challenges. Let's connect and collaborate!</b>
+  <b>✨ GUARDIÃ DA QUALIDADE</b>
 </p>
 
 <div align="center">
@@ -19,31 +19,36 @@
 
 ---
 
-### 🔍 Expert in Web Scraping, 🌍 GIS, and 📊 Data Analysis
+### 🔍 Analista de QA | Python | Testes Funcionais e Automatizados
 
 ---
 
-## My Skills
+## Minhas Habilidades
 
-#### Main Stack:
+#### Stack Principal:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=for-the-badge&logo=seaborn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-150458?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-150458?style=for-the-badge&logo=scipy&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=for-the-badge&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 #### Currently Learning:
 
@@ -51,11 +56,10 @@
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Workstation Tools:
+#### Ferramentas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
