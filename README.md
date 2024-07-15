@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Eu ❤️ resolvo grandes desafios usando tecnologia.</b>
+  <b>Eu ❤️ resolver grandes desafios usando tecnologia.</b>
   <br>
   <br>
   Focada em qualidade de software, sou Analista de QA com mais de 6 anos de experiência em Python, análise de dados e geoprocessamento. Minha jornada é guiada pelos princípios do desenvolvimento ágil, voltada para testes automatizados e excelência em cada linha de código. Sempre em busca de novos desafios e tecnologias, acredito na constante evolução e aprendizado.
@@ -29,6 +29,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -38,9 +39,10 @@
 
 
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Stack Secundária:
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-150458?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,11 +52,11 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-#### Currently Learning:
+#### Aprendendo Atualmente:
 
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-FF6F61?style=for-the-badge&logoColor=white)
 
-#### Databases:
+#### Bancos de Dados:
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,7 +70,7 @@
 
 ---
 
-## Contacts:
+## Contatos:
 
 <p align="center">
   <a href="mailto:isis.araujo@outlook.com.br">
