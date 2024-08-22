@@ -6,7 +6,7 @@
   <b>Eu ❤️ resolver grandes desafios usando tecnologia.</b>
   <br>
   <br>
-    Com mais de 6 anos de experiência em TI, sou Analista de QA especializada em qualidade de software e Desenvolvimento Python. Desenvolvi competências em análise de dados e geoprocessamento, orientada pelos princípios do desenvolvimento ágil. Meu foco está em testes automatizados e na busca pela excelência em cada linha de código. Estou sempre em busca de novos desafios e tecnologias, acreditando na constante evolução e aprendizado.
+    Com mais de 6 anos de experiência em TI, sou Analista de QA e Desenvolvedora Python. Desenvolvi competências em análise de dados e geoprocessamento, orientada pelos princípios do desenvolvimento ágil. Meu foco está em testes automatizados e na busca pela excelência em cada linha de código. Estou sempre em busca de novos desafios e tecnologias, acreditando na constante evolução e aprendizado.
   <br>
   <br>
   <b>✨ GUARDIÃ DA QUALIDADE</b>
