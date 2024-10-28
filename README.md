@@ -19,7 +19,7 @@
 
 ---
 
-### Desenvolvedora Backend Python | Testes Funcionais e Automatizados
+### Desenvolvedora Backend Python e Go | Testes Funcionais e Automatizados
 
 ---
 
