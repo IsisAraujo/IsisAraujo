@@ -6,7 +6,7 @@
   <b>Eu ❤️ resolver grandes desafios usando tecnologia.</b>
   <br>
   <br>
-    Com mais de 6 anos de experiência em TI, sou Desenvolvedora Backend Python e Analista de QA. Desenvolvi competências em análise de dados e geoprocessamento, sempre orientada pelos princípios do desenvolvimento ágil. Meu foco está em testes automatizados e programar focada na excelência em cada linha de código. Estou constantemente em busca de novos desafios e tecnologias, acreditando na constante evolução e aprendizado.
+    Com mais de 6 anos de experiência em TI, sou Desenvolvedora Backend Python e Go. Desenvolvi competências em análise de dados e geoprocessamento, sempre orientada pelos princípios do desenvolvimento ágil. Meu foco está em testes automatizados e programar focada na excelência em cada linha de código. Estou constantemente em busca de novos desafios e tecnologias, acreditando na constante evolução e aprendizado.
   <br>
   <br>
   <b>✨ GUARDIÃ DA QUALIDADE</b>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🔍 Analista de QA | Desenvolvedora Backend Python | Testes Funcionais e Automatizados
+### Desenvolvedora Backend Python | Testes Funcionais e Automatizados
 
 ---
 
@@ -28,12 +28,7 @@
 #### Stack Principal:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
