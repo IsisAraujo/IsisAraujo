@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/IsisAraujo/IsisAraujo/blob/main/banner_github_2.0.png" />
+  <img width="100%" src="https://github.com/IsisAraujo/IsisAraujo/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png" />
 </p>
 
 <p align="center">
