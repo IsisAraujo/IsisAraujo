@@ -9,7 +9,7 @@
     Com mais de 6 anos de experiência em TI, sou Desenvolvedora Backend Python e Go. Desenvolvi competências em análise de dados e geoprocessamento, sempre orientada pelos princípios do desenvolvimento ágil. Meu foco está em testes automatizados e programar focada na excelência em cada linha de código. Estou constantemente em busca de novos desafios e tecnologias, acreditando na constante evolução e aprendizado.
   <br>
   <br>
-  <b>✨ GUARDIÃ DA QUALIDADE</b>
+  <b>✨ Transformando códigos em conhecimento que importa</b>
 </p>
 
 <div align="center">
