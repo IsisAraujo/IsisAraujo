@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Crio produtos digitais com foco em simplicidade, propósito.
+  Crio produtos digitais com foco em simplicidade e propósito.
   <br>
-  <i>Transformando código em conhecimento acessível.</i>
+  <i>Transformando código em conhecimento que importa.</i>
 </p>
 
 ---
