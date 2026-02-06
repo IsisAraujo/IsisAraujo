@@ -1,90 +1,78 @@
-<h1 align="center" style="color:#0C0A09;">Isis Araujo</h1>
+<h1 align="center">Isis Araujo</h1>
 
-<p align="center" style="color:#57534E;">
-  Desenvolvedora Backend · Criadora da plataforma <b>TEUESTUDO</b>
+<p align="center">
+  Desenvolvedora Backend
 </p>
 
-<p align="center" style="color:#57534E; max-width:560px; margin:auto;">
+<p align="center">
   Crio produtos digitais com foco em simplicidade, propósito.
   <br>
   <i>Transformando código em conhecimento acessível.</i>
 </p>
 
-<br>
+---
+
+## Sobre
+
+Trabalho com backend e passo boa parte do tempo estudando como estruturar melhor o código.
+Me preocupo com onde cada coisa deve ficar, por que existe e como pode evoluir sem virar confuso.
+
+Uso **NestJS** como base principal hoje, mas também tenho experiência com **Python e Django**.
+Aprendo criando projetos, revisando o que fiz e ajustando quando algo começa a ficar difícil de manter.
+
+Dou atenção especial à organização do código, limites de responsabilidade e clareza das decisões técnicas.
+
 
 ---
 
-<div align="center">
-
-<a href="https://www.teuestudo.com.br">
-  <img 
-    src="https://github.com/IsisAraujo/IsisAraujo/blob/main/Logo.png?raw=true" 
-    width="96"
-    alt="Logo TeuEstudo"
-  />
-</a>
-
-<h2 style="color:#0C0A09; margin-bottom:4px;">TEUESTUDO</h2>
-
-<p style="color:#57534E; margin-top:0;">
-  Plataforma gratuita para organização e planejamento de estudos para concursos.
-</p>
-
-</div>
-
-<br>
-
-<p style="color:#0C0A09; max-width:720px; margin:auto;">
-  O <b>TEUESTUDO</b> é um projeto independente, criado e mantido por mim, com o objetivo de
-  democratizar o acesso a ferramentas de organização de estudos.
-  <br><br>
-  A plataforma prioriza <b>clareza, desempenho e usabilidade</b>, ajudando estudantes a
-  transformar conteúdo em rotina — sem distrações, excessos ou dependência de métodos complexos.
-</p>
-
-<br>
+## Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Python-0C0A09?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Django-0C0A09?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-57534E?style=flat-square&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.teuestudo.com.br">
-    <img 
-      src="https://img.shields.io/badge/Acessar_o_TEUESTUDO-9A3412?style=for-the-badge"
-      alt="Acessar TeuEstudo"
-    />
-  </a>
-</div>
-
-<br>
 
 ---
 
-<h3 align="center" style="color:#0C0A09;">Apoie o projeto</h3>
+## Projetos
 
-<p align="center" style="color:#57534E; max-width:520px; margin:auto;">
-  O TEUESTUDO é gratuito e mantido de forma independente.
-  <br>
-  Se a plataforma te ajudou, considere apoiar para manter o projeto ativo e evoluindo.
-</p>
+Os repositórios aqui refletem meu processo de aprendizado e evolução como backend.
 
-<div align="center">
-  <a href="https://www.teuestudo.com.br">
-    <img 
-      src="https://img.shields.io/badge/Apoiar_o_Projeto-0C0A09?style=flat-square"
-      alt="Apoiar TeuEstudo"
-    />
-  </a>
-</div>
+- **nestjs-api-fundamentals**  
+  Estrutura básica de API, organização de módulos e validação.
 
-<br>
+- **nestjs-auth-rbac**  
+  Autenticação, controle de acesso e separação de responsabilidades.
+
+- **nestjs-clean-architecture**  
+  Estudo prático de arquitetura limpa aplicada ao NestJS.
+
+- **nestjs-testing-jest**  
+  Testes unitários e de integração.
+
+- **nestjs-enterprise-api**  
+  Projeto maior reunindo tudo que venho estudando.
+
+Cada projeto tem um README explicando **o porquê das escolhas**, não só o “como”.
 
 ---
+
+## Interesses atuais
+
+- Arquitetura de software
+- Backend com NestJS
+- Código simples e legível
+- Testes
+- Aprendizado contínuo
+
+---
+
+## Contato
 
 <p align="center">
   <a href="mailto:isis.araujo@outlook.com.br">
